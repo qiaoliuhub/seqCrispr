@@ -51,7 +51,7 @@ training = True
 
 ## Run the program and get prediction result
 
-Make sure the data is in dataset/<cellline>/ folder and execute
+Make sure the data is in dataset/\<cellline\>/ folder and execute
 ```
 ./run.sh dataset/<cellline>
 ```
